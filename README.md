@@ -11,8 +11,9 @@ Data Pelanggan
 ![alt text](https://github.com/ClarissaSanindita/Tugas-Login-dan-CRUD/blob/master/datapelanggan.PNG)
 ![alt text](https://github.com/ClarissaSanindita/Tugas-Login-dan-CRUD/blob/master/datapelanggan2.PNG)
 ![alt text](https://github.com/ClarissaSanindita/Tugas-Login-dan-CRUD/blob/master/datapelanggan3.PNG)
+![alt text](https://github.com/ClarissaSanindita/Tugas-Login-dan-CRUD/blob/master/tambahdatapelanggan.PNG)
 Daftar Pelanggan
 ![alt text](https://github.com/ClarissaSanindita/Tugas-Login-dan-CRUD/blob/master/daftarpelanggan.PNG)
-![alt text](https://github.com/ClarissaSanindita/Tugas-Login-dan-CRUD/blob/master/tambahdatapelanggan.PNG)
+
 
 
